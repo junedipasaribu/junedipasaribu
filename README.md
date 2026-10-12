@@ -1,5 +1,7 @@
 # Hi, I'm Junedi 👋
 
+![Junedi — Software Developer, Building Useful Digital Products](profile-header.png)
+
 I build web and Android applications, from user-facing features to backend APIs, databases, and deployment. My projects focus on practical tools for everyday work and small businesses.
 
 [![GitHub](https://img.shields.io/badge/GitHub-junedipasaribu-181717?style=flat&logo=github)](https://github.com/junedipasaribu)
