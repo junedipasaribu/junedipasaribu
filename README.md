@@ -36,3 +36,6 @@ I build web and Android applications, from user-facing features to backend APIs,
 ## 🌐 Find me
 
 - GitHub: [@junedipasaribu](https://github.com/junedipasaribu)
+- Email: [pasaribujunedi@gmail.com](mailto:pasaribujunedi@gmail.com)
+- LinkedIn: [linkedin.com/in/junedipasaribu17](https://www.linkedin.com/in/junedipasaribu17)
+- Website: [juns-digital.my.id](https://juns-digital.my.id)
