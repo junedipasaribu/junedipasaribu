@@ -1,4 +1,4 @@
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=Hi%2C+I+am+June+%21%F0%9F%91%8B" />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=400&width=2000&bannerText=Hi%2C+I+am+June+%21%F0%9F%91%8B" />
 
 ![Junedi — Software Developer, Building Useful Digital Products](profile-header.png)
 
