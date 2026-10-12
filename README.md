@@ -1,5 +1,7 @@
 # Hi, I'm Junedi 👋
 
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=Cubes" />
+
 ![Junedi — Software Developer, Building Useful Digital Products](profile-header.png)
 
 I build web and Android applications, from user-facing features to backend APIs, databases, and deployment. My projects focus on practical tools for everyday work and small businesses.
